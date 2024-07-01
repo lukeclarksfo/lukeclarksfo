@@ -2,4 +2,4 @@
 
 Check out
 
-[Pages](//lukeclarksfo.github.io)
+[Website](//lukeclarksfo.github.io)
