@@ -1,5 +1,5 @@
 ## Luke Clark
 
-Check out
+Check out my
 
-[Projects](//lukeclarksfo.github.io)
+[GitHub Pages](//lukeclarksfo.github.io)
