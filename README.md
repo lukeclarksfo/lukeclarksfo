@@ -1,6 +1,6 @@
 ## Luke Clark
 
-Check out [Pages](lukeclarksfo.github.io)
+Check out [Pages](//lukeclarksfo.github.io)
 
 <!--
 **lukeclarksfo/lukeclarksfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
