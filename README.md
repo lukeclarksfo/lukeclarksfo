@@ -1,5 +1,5 @@
 ## Luke Clark
 
-Check out my
+Check out
 
 [GitHub Pages](//lukeclarksfo.github.io)
