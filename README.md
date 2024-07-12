@@ -1,5 +1,5 @@
-## Luke Clark
+# Luke Clark
 
-Check out
+Click the link for all the projects.
 
 [Website](//lukeclarksfo.github.io)
